@@ -1,10 +1,11 @@
 # 🌌 Caelus: AI Guidance from the Sky
 
-> *"Caelus" – Latin for sky – symbolizes the vast opportunities above us, and the freedom to choose the right path in life.*
+> _"Caelus" – Latin for sky – symbolizes the vast opportunities above us, and the freedom to choose the right path in life._
 
 ---
 
-![Navigation Panel](static/img/nav.png)
+![Navigation Panel](static/img/Navigation.png)
+
 <p align="center"><i>The navigation panel to access Caelus’ features</i></p>
 
 ---
@@ -22,6 +23,7 @@ This is more than just an app — it's a **framework** for running high-performa
 ## 🔬 Core Projects Inside
 
 1. **🧠 A Scalable Small LLM Framework**
+
    - Implements a **novel technique** to enhance small models like **Qwen1.5 0.6B, 1.7B, and 4B**
    - **Bypasses token limitations**, drastically improving reasoning and usability
    - Extremely **lightweight**, with performance scaling based on device capacity
@@ -42,7 +44,8 @@ This is more than just an app — it's a **framework** for running high-performa
 
 ---
 
-![App Running](static/img/app.png)
+![App Running](static/img/app_run.png)
+
 <p align="center"><i>Caelus in action — the AI assistant helping users reflect and explore</i></p>
 
 ---
@@ -54,13 +57,13 @@ This is more than just an app — it's a **framework** for running high-performa
 - 🧩 **Modular** — plug-and-play architecture
 - 🛡️ **Fault-tolerant and safe** — does not respond to harmful queries (e.g., racism, violence)
 - 🤖 **Multiple Qwen models supported** — choose between speed and reasoning depth
-- 🌍 **Human-centric** — built to *support, not replace* critical thinking
+- 🌍 **Human-centric** — built to _support, not replace_ critical thinking
 
 ---
 
 ## 📺 Demo Video
 
-🎥 *Coming soon…* (Link will go here)
+🎥 _Coming soon…_ (Link will go here)
 
 ---
 
@@ -89,7 +92,9 @@ pip install -r requirements.txt
 
 # Launch the notebook app.ipynb
 ```
+
 ## 🙌 A Final Word
+
 Caelus aims to bring advanced AI to the hands of those who need it most — not just the few with cutting-edge machines.
 
 Let’s redefine what "entry-level" hardware is capable of. 🌠
