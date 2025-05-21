@@ -87,10 +87,7 @@ source venv/bin/activate  # or .\venv\Scripts\activate on Windows
 # Install dependencies
 pip install -r requirements.txt
 
-# Launch the notebook or start the app
-jupyter notebook
-# OR run the app if there is a main launcher
-python app.py
+# Launch the notebook app.ipynb
 ```
 ## 🙌 A Final Word
 Caelus aims to bring advanced AI to the hands of those who need it most — not just the few with cutting-edge machines.
