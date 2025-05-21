@@ -1,0 +1,9 @@
+.venv/
+model-qwen3-1.7B/
+model-qwen3-4B/
+model-qwen3-06B/
+template.html
+train.json
+combined_output.json
+Book.xlsx
+output.xlsx
