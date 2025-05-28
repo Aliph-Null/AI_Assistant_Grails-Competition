@@ -63,7 +63,8 @@ This is more than just an app — it's a **framework** for running high-performa
 
 ## 📺 Demo Video
 
-🎥 _Coming soon…_ (Link will go here)
+[🎥 Watch the demo](static/app_demo.mp4)
+
 
 ---
 
