@@ -80,7 +80,7 @@ However, **all copyright and intellectual property remain with the creator**.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/caelus.git
+git clone https://github.com/Aliph-Null/AI_Assistant_Grails-Competition
 cd caelus
 
 # (Optional) Create a virtual environment
